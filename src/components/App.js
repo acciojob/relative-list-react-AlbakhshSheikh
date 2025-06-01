@@ -1,4 +1,4 @@
-import React, { useState } from 'react'Add commentMore actions
+import React, { useState } from 'react'
 
 const App = () => {
   const[list , setList] = useState(["a","b","c"]);
